@@ -1,3 +1,6 @@
+---
+alias: Backlinks
+---
 Mit der Erweiterung `Rückverweis` können Sie alle _Rückverweise_ (in Englisch _Backlinks_) für die aktive Notiz sehen.
 
 Ein Rückverweis für eine Notiz ist ein Link von einer anderen Notiz zu dieser Notiz. Im folgenden Beispiel enthält die Notiz "Drei Gesetze der Bewegung" einen Link auf die Notiz "Isaac Newton". Der entsprechende Rückverweis würde von "Isaac Newton" zurück zu "Drei Gesetze der Bewegung" führen.
@@ -28,7 +31,7 @@ Der Bereich Rückverweise bietet die folgenden Optionen:
 - **Suchfilter anzeigen** schaltet ein Textfeld ein, mit dem Sie die Erwähnungen filtern können. Weitere Informationen zur Erstellung einer Suchanfrage finden Sie unter [[Suche]].
 
 > [!tip]
-> Wenn Sie Backlinks für mehrere Notizen gleichzeitig sehen möchten, können Sie **Backlink im Dokument** unter den Plugin-Optionen aktivieren, um Backlinks im gleichen Fenster wie Ihre Notiz anzuzeigen.
+> Wenn Sie Rückverweise für mehrere Notizen gleichzeitig sehen möchten, können Sie **Rückverweise in Notitz** unter den Plugin-Optionen aktivieren, um Rückverweise im gleichen Fenster wie Ihre Notiz anzuzeigen.
 
 ## Rückverweise für eine Notiz anzeigen
 
